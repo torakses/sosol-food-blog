@@ -1,0 +1,7 @@
+#page-header {
+  background: url("./media/testimages/headerpizza.jpg");
+}
+
+body header h1 {
+  color: pink;
+}
