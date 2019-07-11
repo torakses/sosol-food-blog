@@ -5,3 +5,12 @@
 body header h1 {
   color: pink;
 }
+
+#tags {
+  text-decoration: underline;
+  color: blue;
+}
+
+#publication {
+  color: gray;
+}
